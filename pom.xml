@@ -33,9 +33,9 @@
 			<artifactId>tomcat-embed-jasper</artifactId>
 			<scope>provided</scope>
 		</dependency>
-		<properties>
+		</dependency>
                    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-             </properties>
+             </dependency>
 	</dependencies>
 
 	<build>
